@@ -15,7 +15,8 @@ A responsive JavaScript-based password generator with strength checker and copy-
 ---
 
 ## 🚀 Live Demo
-🔗 *Coming soon / Add GitHub Pages link here after deployment*
+🔗 **Live Preview:** https://your-render-link-here
+
 
 ---
 
